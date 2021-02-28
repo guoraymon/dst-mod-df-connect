@@ -1,7 +1,7 @@
-name = "前往稻花村"
+name = "稻花村直连"
 description = "听取咕声一片"
 author = "颠三倒四"
-version = "1.0.5"
+version = "1.0.6"
 
 forumthread = ""
 
